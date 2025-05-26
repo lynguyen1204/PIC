@@ -1,0 +1,7 @@
+青Code
+   青MAIN  0/46  Ram=1
+      団@cinit1  (Inline)  Ram=0
+      青send_message  0/28  Ram=0
+         団@PSTRINGC7_9600_62_63  0/88  Ram=4
+         団@PSTRINGC7_9600_62_63  0/88  Ram=4
+         青@PSTRINGC7_9600_62_63  0/88  Ram=4
